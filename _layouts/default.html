@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap -->
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" media="screen" />
+    <link href="/assets/css/fonts.css" rel="stylesheet" media="screen" />
+    <link href="/assets/css/application.css" rel="stylesheet" media="screen" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="jumbotron">
+        <div class="container">
+          <h1 class="logo">
+            <a href='/'>{{ site.name }}</a>
+          </h1>
+        </div>
+      </header>
+
+      <div class="row">
+        <section class="col-lg-9">
+          {{ content }}
+        </section>
+        <nav class="col-lg-3">
+          <ul class="nav nav-pills nav-stacked">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">Tutorials</a></li>
+            <li><a href="#">Practice Editor </a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+
+      <footer>
+        <div class="container">
+          <div>
+            Copyright &copy; 2013 F&ecirc;tes &agrave; th&ecirc;mes
+          </div>
+          <div>
+            Toutes les autres marques d&eacute;pos&eacute;es sont la propri&eacute;t&eacute; de leurs auteurs respectifs.
+          </div>
+          <div>
+            Th&ecirc;me par <a href="http://wp-design.org/download/halloween">Ristea Paul</a>.
+          </div>
+          <div>
+            Web fonts par <a href="http://www.pizzadude.dk/">Jakob Fischer</a>.
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+  </body>
+</html>
