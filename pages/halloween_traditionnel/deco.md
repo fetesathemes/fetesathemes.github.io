@@ -1,11 +1,11 @@
 ---
 layout: default
-title: La déco
+title: La décoration
 menu_depth: 3
 menu_parent: Halloween traditionnel
 ---
 
-## La déco
+## La décoration
 
 Pour Halloween: des toiles d'araignées, des draps, des serpentins oranges et noirs, des fantômes, des chauderons, des chapeaux de sorcières etc.
 

@@ -11,7 +11,7 @@ Quoi de plus logique que de revenir à des soirées classiques qui ont souvent l
 
 Voici quelques idées pour réussir un bel Halloween:
 
-<img src="/assets/images/pages/confiserie.png" class="img-rounded" />
+![confiserie](/assets/images/pages/confiserie.png)
 
 [Miam !](/pages/halloween_traditionnel/miam.html)
 

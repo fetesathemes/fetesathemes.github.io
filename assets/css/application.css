@@ -34,9 +34,13 @@ footer {
   font-size: 10px;
 }
 
-a {
+a, .logo a:hover {
   color: #EE9900;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 section h1::before {
@@ -70,4 +74,8 @@ section h3 {
 
 .nav-stacked ul {
   margin-left: 15px !important;
+}
+
+.container img {
+  border-radius: 6px;
 }
