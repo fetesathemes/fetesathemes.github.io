@@ -67,3 +67,7 @@ section h3 {
   font-size: 16px;
   font-weight: normal;
 }
+
+.nav-stacked ul {
+  margin-left: 15px !important;
+}
