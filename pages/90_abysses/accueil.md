@@ -1,0 +1,16 @@
+---
+layout: default
+title: Abysses
+menu_depth: 2
+menu_parent: Accueil
+---
+
+# Abysses
+
+Plongez dans les profondeurs abyssales et mystérieuses des fonds sous-marins et retrouvez les créatures inconnues des océans pour une soirée au grand large et au son d'une musique aquatique envoûtante.
+
+[Miam !](/pages/90_abysses/miam.html)
+
+[La déco](/pages/90_abysses/deco.html)
+
+[A cette soirée vous pourrez croiser...](/pages/90_abysses/deguisements.html)
