@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Accueil
-menu_depth: 1
 ---
 
 # Bienvenue sur Fêtes à Thèmes !

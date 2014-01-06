@@ -1,0 +1,41 @@
+Accueil:
+  Halloween traditionnel:
+    - /pages/halloween_traditionnel/miam.html
+    - /pages/halloween_traditionnel/deco.html
+    - /pages/halloween_traditionnel/deguisements.html
+  Extraterrestre:
+    - /pages/extraterrestre/miam.html
+    - /pages/extraterrestre/deco.html
+    - /pages/extraterrestre/deguisements.html
+  L'île aux pirates:
+    - /pages/ile_aux_pirates/miam.html
+    - /pages/ile_aux_pirates/deco.html
+    - /pages/ile_aux_pirates/deguisements.html
+  Mystère à l'abbaye:
+    - /pages/mystere_a_labbaye/miam.html
+    - /pages/mystere_a_labbaye/deco.html
+    - /pages/mystere_a_labbaye/deguisements.html
+  Far far west:
+    - /pages/far_far_west/miam.html
+    - /pages/far_far_west/deco.html
+    - /pages/far_far_west/deguisements.html
+  Alice et Peter au pays merveilleux imaginaire:
+    - /pages/alice_et_peter_au_pays_merveilleux_imaginaire/miam.html
+    - /pages/alice_et_peter_au_pays_merveilleux_imaginaire/deco.html
+    - /pages/alice_et_peter_au_pays_merveilleux_imaginaire/deguisements.html
+  Contes et légendes:
+    - /pages/contes_et_legendes/miam.html
+    - /pages/contes_et_legendes/deco.html
+    - /pages/contes_et_legendes/deguisements.html
+  Anges et démons:
+    - /pages/anges_et_demons/miam.html
+    - /pages/anges_et_demons/deco.html
+    - /pages/anges_et_demons/deguisements.html
+  Abysses:
+    - /pages/abysses/miam.html
+    - /pages/abysses/deco.html
+    - /pages/abysses/deguisements.html
+  Tropical:
+    - /pages/tropical/miam.html
+    - /pages/tropical/deco.html
+    - /pages/tropical/deguisements.html
