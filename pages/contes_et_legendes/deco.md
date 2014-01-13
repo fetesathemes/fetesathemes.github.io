@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Une décoration de château fort ou de forêt enchantée fera parfaitement l'affaire.
 

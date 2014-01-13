@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Recréer l'ambiance d'un monastère en proie à une enquête sur un meurtre louche en ses murs.
 

@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Évidemment des coquillages, étoiles de mer et algues un peu partout!
 

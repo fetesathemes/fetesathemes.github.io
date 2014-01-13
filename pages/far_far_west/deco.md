@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Repensez à vos westerns ou bandes dessinées préférés et recréez l'ambiance chez vous.
 

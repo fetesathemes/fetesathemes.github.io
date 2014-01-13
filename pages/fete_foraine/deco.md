@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Pour une décoration réussie, deux choix sont possibles: soit plutôt sucrerie avec bonbons géants, cannes à sucre géantes, sucettes etc. soit plutôt côté cirque avec clowneries et décorations rouge et jaune.
 

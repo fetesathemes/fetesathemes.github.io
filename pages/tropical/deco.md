@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Une décoration tropicale fera toujours penser à: palmiers, noix de coco, bananes, hamac etc. Voici quelques propositions d'arrangement de votre salle et de votre buffet:
 

@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Pour Halloween: des toiles d'araignées, des draps, des serpentins oranges et noirs, des fantômes, des chauderons, des chapeaux de sorcières etc.
 

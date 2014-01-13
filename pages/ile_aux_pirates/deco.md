@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Une décoration pirate ne serait pas une décoration pirate sans un drapeau de pirate.
 

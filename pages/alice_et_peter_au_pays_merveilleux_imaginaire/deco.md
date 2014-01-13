@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Des champignons géants, des fleurs géantes, des cartes à jouer et un plan du pays imaginaire bien sûr!
 

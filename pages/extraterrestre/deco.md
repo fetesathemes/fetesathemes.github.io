@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Il s'agit d'utiliser toutes les ressources à dispositions pour créer une ambiance cosmique.
 

@@ -3,7 +3,7 @@ layout: default
 title: La décoration
 ---
 
-## La décoration
+## La déco
 
 Une machine à fumée est vivement recommandée pour une ambiance surréaliste dans les nuages.
 
