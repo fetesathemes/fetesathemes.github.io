@@ -47,3 +47,7 @@ Accueil:
     - /pages/disco/miam.html
     - /pages/disco/deco.html
     - /pages/disco/deguisements.html
+  Fête Foraine:
+    - /pages/fete_foraine/miam.html
+    - /pages/fete_foraine/deco.html
+    - /pages/fete_foraine/deguisements.html
