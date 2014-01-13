@@ -43,3 +43,7 @@ Accueil:
     - /pages/moyen_age/miam.html
     - /pages/moyen_age/deco.html
     - /pages/moyen_age/deguisements.html
+  Disco:
+    - /pages/disco/miam.html
+    - /pages/disco/deco.html
+    - /pages/disco/deguisements.html
