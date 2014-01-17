@@ -13,7 +13,7 @@ Ainsi que des plats salés comme des hot dogs, des chips, des hamburgers... Bref
 
 ![pommes](/assets/images/pages/pommes.png)
 
-![barbe](/assets/images/pages/barbe.png)
+![barbe](/assets/images/pages/Barbe.png)
 
 Proposez également des sirops aux goûts surprenants: tarte tatin, barbe à papa, cactus, pain d'épices etc.
 
