@@ -9,7 +9,7 @@ Quoi de plus logique que de revenir à des soirées classiques qui ont souvent l
 
 Voici quelques idées pour réussir un bel Halloween:
 
-Proposez à vos invités de résoudre quelques énigmes dans le thème. Pour cela, voici un site qui vous donnera plusieurs idées d'énigmes à adapter selon l'âge de vos convives et leurs intérêts: http://vsoler.pagesperso-orange.fr/Aventures/dossiers/halloween/enigmes.htm
+Proposez à vos invités de résoudre quelques énigmes dans le thème. Pour cela, voici un site qui vous donnera plusieurs idées d'énigmes à adapter selon l'âge de vos convives et leurs intérêts: [http://vsoler.pagesperso-orange.fr/Aventures/dossiers/halloween/enigmes.htm](http://vsoler.pagesperso-orange.fr/Aventures/dossiers/halloween/enigmes.htm)
 
 ![confiserie](/assets/images/pages/confiserie.png)
 
