@@ -11,6 +11,6 @@ A vous de choisir et d'oser...
 
 ![sirop](/assets/images/pages/p1080219.jpg)
 
-Quelques violettes crysalisées:
+Quelques violettes crystalisées:
 
 ![violette](/assets/images/pages/p1080220.jpg)
