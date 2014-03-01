@@ -105,3 +105,13 @@ section > h3 {
 .container img {
   border-radius: 6px;
 }
+
+#spider {
+  position: relative;
+  left: 560px;
+  top: 230px;
+  width: 60px;
+  height: 100px;
+  background-image: url(/assets/images/spider.jpg);
+  background-repeat: no-repeat;
+}
