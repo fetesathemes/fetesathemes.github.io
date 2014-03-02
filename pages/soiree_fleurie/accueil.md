@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Soirée fleurie
-published: false
 ---
 
 # Soirée fleurie
 
-Une soirée pour découvrir les saveurs de fleurs sous différentes formes.
+Une soirée pour découvrir les saveurs des fleurs sous différentes formes.
 Il existe en effet des centaines de façons de les cuisiner, à vous de le faire découvrir à vos invités!
 
 

@@ -55,4 +55,8 @@
     - /pages/epices/miam.html
     - /pages/epices/deco.html
     - /pages/epices/deguisements.html
-  Thèmes de Réveillon:
+  /pages/hallowine/accueil.html:
+    - /pages/hallowine/miam.html
+    - /pages/hallowine/deco.html
+    - /pages/hallowine/deguisements.html
+  /pages/reveillon/accueil.html:

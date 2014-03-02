@@ -1,6 +1,6 @@
 ---
 layout: default
-title: La décoration
+title: La déco
 ---
 
 ## La déco

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Les déguisements
-published: false
 ---
 
 ## A cette soirée vous pourrez croiser...
