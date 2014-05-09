@@ -5,6 +5,8 @@ title: La déco
 
 ## La déco
 
+![table](/assets/images/pages/table.png)
+
 Pensez aux couleurs fluos des années 80, des boules à facettes, des 45 tours, et recréez chez vous cette ambiance si festive.
 
 ![sol](/assets/images/pages/sol.png)
