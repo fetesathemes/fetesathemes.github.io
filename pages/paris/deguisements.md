@@ -14,3 +14,5 @@ Des hommes et femmes en beret
 Des tours Eiffel
 
 Des touristes
+
+Des garçons de café
