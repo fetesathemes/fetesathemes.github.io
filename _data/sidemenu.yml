@@ -59,4 +59,12 @@
     - /pages/hallowine/miam.html
     - /pages/hallowine/deco.html
     - /pages/hallowine/deguisements.html
+  /pages/soiree_fleurie/accueil.html:
+    - /pages/soiree_fleurie/miam.html
+    - /pages/soiree_fleurie/deco.html
+    - /pages/soiree_fleurie/deguisements.html
+  /pages/paris/accueil.html:
+    - /pages/paris/miam.html
+    - /pages/paris/deco.html
+    - /pages/paris/deguisements.html
   /pages/reveillon/accueil.html:
