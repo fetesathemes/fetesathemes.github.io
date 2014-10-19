@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Disco
+title: Disco forever
 ---
 
-# Disco
+# Disco forever
 
 En souvenir du bon vieux temps, un thème très adapté si vous aimez danser. Une piste aux couleurs fluos et une soirée toute en strass sur un air rétro qui plaira à beaucoup, surtout aux nostalgiques.
 
