@@ -3,7 +3,7 @@ layout: default
 title: Les classiques de l'horreur
 ---
 
-# Halloween traditionnel
+# Les classiques de l'horreur
 
 Quoi de plus logique que de revenir à des soirées classiques qui ont souvent le plus grand succès. Parfois à vouloir faire trop compliqué, on se perd dans la difficulté.
 
