@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Halloween traditionnel
+title: Les classiques de l'horreur
 ---
 
 # Halloween traditionnel
