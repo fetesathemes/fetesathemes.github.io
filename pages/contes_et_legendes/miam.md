@@ -27,7 +27,7 @@ Un gentil petit fantôme piqué sur vos canapés rappellera certainement un cont
 
 Et pourquoi ne pas fabriquer une maison de pain d'épices et autres sucreries?
 
-![doigts](/assets/images/pages/doigts.png)
+![doigts](/assets/images/pages/P1090238.JPG)
 
 Ci-dessus les célèbres et fameux doigts de sorcières. Des saucisses enroulées dans de la pâte feuilletée avec une pointe de ketchup et des amandes pour les ongles, trois plis au couteau... irrésistibles...
 

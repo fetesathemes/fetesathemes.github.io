@@ -2,4 +2,4 @@ name: Fetes a themes
 markdown: redcarpet
 safe: true
 lsi: false
-pygments: false
+highlighter: pygments

@@ -67,4 +67,8 @@
     - /pages/paris/miam.html
     - /pages/paris/deco.html
     - /pages/paris/deguisements.html
+  /pages/meurtre_sur_lolympe/accueil.html:
+    - /pages/meurtre_sur_lolympe/miam.html
+    - /pages/meurtre_sur_lolympe/deco.html
+    - /pages/meurtre_sur_lolympe/deguisements.html
   /pages/reveillon/accueil.html:

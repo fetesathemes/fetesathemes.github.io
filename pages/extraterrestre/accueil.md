@@ -5,7 +5,7 @@ title: Extraterrestre
 
 # Extraterrestre
 
-Un thème classique mais qui promet une soirée réussie.
+Un thème classique mais qui promet une soirée réussie... la tête dans les étoiles...
 
 [Miam !](/pages/extraterrestre/miam.html)
 

@@ -21,7 +21,7 @@ Pour votre buffet salé, évidemment du poisson, crabe, crevette, saumon, thon, 
 
 ![crabes](/assets/images/pages/crabes.png)
 
-Ci-dessous des saucisses de Francfort découpées en forme de poulpes:
+Ci-dessous des saucisses de Vienne découpées en forme de poulpes:
 
 ![gateaux](/assets/images/pages/P1080081.jpeg)
 
