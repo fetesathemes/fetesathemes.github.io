@@ -18,3 +18,7 @@ Ainsi que des plats salés comme des hot dogs, des chips, des hamburgers... Bref
 Proposez également des sirops aux goûts surprenants: tarte tatin, barbe à papa, cactus, pain d'épices etc.
 
 ![barbe](/assets/images/pages/DSC01829.jpeg)
+
+Et pour les plus courageux, un gâteau auto-tamponneuses au chocolat:
+
+![gateau](/assets/images/pages/P1040639.JPG)
