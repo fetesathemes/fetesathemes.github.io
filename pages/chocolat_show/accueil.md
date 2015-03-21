@@ -5,7 +5,7 @@ title: Chocolat Show
 
 # Chocolat Show
 
-Blablabla.
+Quoi de meilleur pour fêter le retour du printemps (ou toute autre saison) que d'organiser une soirée autour du thème du chocolat!
 
 [Miam !](/pages/chocolat_show/miam.html)
 
