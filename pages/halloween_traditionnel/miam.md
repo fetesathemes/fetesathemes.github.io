@@ -29,7 +29,7 @@ Là il vous faut un moule en forme de citrouille... plus difficile à trouver da
 
 ![yeux](/assets/images/pages/yeux2.png)
 
-Des oeufs cuits-durs avec une pupille sur la coquille fait au stylo alimentaire, et au centre, un vrai-faux oeil gluant de farces et attrapes!
+Des oeufs durs avec une pupille sur la coquille fait au stylo alimentaire, et au centre, un vrai-faux oeil gluant de farces et attrapes!
 
 ![gateau](/assets/images/pages/fantomegateau.png)
 

@@ -39,6 +39,10 @@
     - /pages/tropical/miam.html
     - /pages/tropical/deco.html
     - /pages/tropical/deguisements.html
+  /pages/independence_day/accueil.html:
+    - /pages/independence_day/miam.html
+    - /pages/independence_day/deco.html
+    - /pages/independence_day/deguisements.html
   /pages/moyen_age/accueil.html:
     - /pages/moyen_age/miam.html
     - /pages/moyen_age/deco.html
