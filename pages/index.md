@@ -7,8 +7,6 @@ title: Accueil
 
 Encore un site pour vous aider à trouver des idées pour vos soirées ? Non, ici tous les thèmes présentés ont été testé réellement et ont rencontré un vif succès !
 
-Presque chaque soirée a été réalisée dans le cadre de la fête d'Halloween, ainsi vous retrouverez ce fil rouge dans pratiquement chaque thème.
-
 Bonne visite et amusez-vous bien dans la réalisation de vos buffets et décorations !
 
 ## Rendons à César...
