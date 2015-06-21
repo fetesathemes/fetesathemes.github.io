@@ -59,10 +59,10 @@
     - /pages/epices/miam.html
     - /pages/epices/deco.html
     - /pages/epices/deguisements.html
-  /pages/hallowine/accueil.html:
-    - /pages/hallowine/miam.html
-    - /pages/hallowine/deco.html
-    - /pages/hallowine/deguisements.html
+  /pages/bacchus/accueil.html:
+    - /pages/bacchus/miam.html
+    - /pages/bacchus/deco.html
+    - /pages/bacchus/deguisements.html
   /pages/soiree_fleurie/accueil.html:
     - /pages/soiree_fleurie/miam.html
     - /pages/soiree_fleurie/deco.html
