@@ -75,4 +75,8 @@
     - /pages/meurtre_sur_lolympe/miam.html
     - /pages/meurtre_sur_lolympe/deco.html
     - /pages/meurtre_sur_lolympe/deguisements.html
+  /pages/le_bal_des_vampires/accueil.html:
+    - /pages/le_bal_des_vampires/miam.html
+    - /pages/le_bal_des_vampires/deco.html
+    - /pages/le_bal_des_vampires/deguisements.html
   /pages/reveillon/accueil.html:
