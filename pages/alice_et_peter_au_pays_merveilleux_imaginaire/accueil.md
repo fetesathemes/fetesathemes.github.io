@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Alice et Peter au pays merveilleux imaginaire
+category: feeriques
+subcategory: alice_et_peter
 ---
 
 # Alice et Peter au pays merveilleux imaginaire

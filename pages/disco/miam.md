@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Miam!
+category: festive
+subcategory: disco
 ---
 
 ## Miam!

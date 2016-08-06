@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Soirée Bacchus
+category: festive
+subcategory: bacchus
 ---
 
 # Soirée Bacchus

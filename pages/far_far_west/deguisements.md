@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: historique
+subcategory: far_far_west
 ---
 
 ## A cette soirée vous pourrez croiser...

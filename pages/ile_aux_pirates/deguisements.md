@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: historique
+subcategory: ile_aux_pirates
 ---
 
 ## A cette soirée vous pourrez croiser...

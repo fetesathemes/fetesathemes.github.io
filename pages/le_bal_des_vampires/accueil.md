@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Le bal des vampires
+category: horrifiques
+subcategory: bal_vampires
 ---
 
 # Le bal des vampires

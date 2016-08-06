@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: feeriques
+subcategory: contes_et_legendes
 ---
 
 ## A cette soirée vous pourrez croiser...

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: horrifiques
+subcategory: classique_horreur
 ---
 
 ## La déco

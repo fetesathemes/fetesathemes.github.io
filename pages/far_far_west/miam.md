@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Miam!
+category: historique
+subcategory: far_far_west
 ---
 
 ## Miam!

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: festive
+subcategory: fete_foraine
 ---
 
 ## A cette soirée vous pourrez croiser...

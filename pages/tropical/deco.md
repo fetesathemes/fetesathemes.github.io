@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: monde
+subcategory: tropical
 ---
 
 ## La déco

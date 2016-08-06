@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Miam!
+category: monde
+subcategory: independence_day
 ---
 
 ## Miam!

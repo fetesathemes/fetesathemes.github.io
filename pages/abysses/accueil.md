@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Abysses
+category: horrifiques
+subcategory: abysses
 ---
 
 # Abysses

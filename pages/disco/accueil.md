@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Disco forever
+category: festive
+subcategory: disco
 ---
 
 # Disco forever

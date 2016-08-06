@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: historique
+subcategory: mystere_a_labbaye
 ---
 
 ## A cette soirée vous pourrez croiser...

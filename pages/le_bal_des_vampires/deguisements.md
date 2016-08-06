@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: horrifiques
+subcategory: bal_vampires
 ---
 
 ## A cette soirée vous pourrez croiser...

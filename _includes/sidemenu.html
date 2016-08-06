@@ -1,0 +1,265 @@
+<ul class="nav nav-list">
+  <li>
+    <label class="nav-header"><a href="/pages">Accueil</a></label>
+    <ul class="nav nav-list tree">
+      <li>
+        <label class="tree-toggler nav-header">Soirées horrifiques</label>
+        <ul class="nav nav-pills nav-stacked" {% if page.category != "horrifiques" %} style="display: none;" {% endif %}>
+          <li {% if page.subcategory == "classique_horreur" %}class="active"{% endif %}>
+            <a href="/pages/halloween_traditionnel/accueil.html">Les classiques de l'horreur</a>
+          </li>
+          {% if page.subcategory == "classique_horreur" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/halloween_traditionnel/miam.html">Miam!</a></li>
+              <li><a href="/pages/halloween_traditionnel/deco.html">La déco</a></li>
+              <li><a href="/pages/halloween_traditionnel/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "anges_demons" %}class="active"{% endif %}>
+            <a href="/pages/anges_et_demons/accueil.html">Anges et démons</a>
+          </li>
+          {% if page.subcategory == "anges_demons" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/anges_et_demons/miam.html">Miam!</a></li>
+              <li><a href="/pages/anges_et_demons/deco.html">La déco</a></li>
+              <li><a href="/pages/anges_et_demons/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "bal_vampires" %}class="active"{% endif %}>
+            <a href="/pages/le_bal_des_vampires/accueil.html">Le bal des vampires</a>
+          </li>
+          {% if page.subcategory == "bal_vampires" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/le_bal_des_vampires/miam.html">Miam!</a></li>
+              <li><a href="/pages/le_bal_des_vampires/deco.html">La déco</a></li>
+              <li><a href="/pages/le_bal_des_vampires/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "abysses" %}class="active"{% endif %}>
+            <a href="/pages/abysses/accueil.html">Abysses</a>
+          </li>
+          {% if page.subcategory == "abysses" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/abysses/miam.html">Miam!</a></li>
+              <li><a href="/pages/abysses/deco.html">La déco</a></li>
+              <li><a href="/pages/abysses/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+        </ul>
+      </li>
+
+      <li>
+        <label class="tree-toggler nav-header">Soirées historiques</label>
+        <ul class="nav nav-pills nav-stacked" {% if page.category != "historique" %} style="display: none;" {% endif %}>
+          <li {% if page.subcategory == "far_far_west" %}class="active"{% endif %}>
+            <a href="/pages/far_far_west/accueil.html">Far far west</a>
+          </li>
+          {% if page.subcategory == "far_far_west" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/far_far_west/miam.html">Miam!</a></li>
+              <li><a href="/pages/far_far_west/deco.html">La déco</a></li>
+              <li><a href="/pages/far_far_west/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "ile_aux_pirates" %}class="active"{% endif %}>
+            <a href="/pages/ile_aux_pirates/accueil.html">L'île aux pirates</a>
+          </li>
+          {% if page.subcategory == "ile_aux_pirates" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/ile_aux_pirates/miam.html">Miam!</a></li>
+              <li><a href="/pages/ile_aux_pirates/deco.html">La déco</a></li>
+              <li><a href="/pages/ile_aux_pirates/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "meurtre_sur_lolympe" %}class="active"{% endif %}>
+            <a href="/pages/meurtre_sur_lolympe/accueil.html">Meurtre sur l'Olympe</a>
+          </li>
+          {% if page.subcategory == "meurtre_sur_lolympe" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/meurtre_sur_lolympe/miam.html">Miam!</a></li>
+              <li><a href="/pages/meurtre_sur_lolympe/deco.html">La déco</a></li>
+              <li><a href="/pages/meurtre_sur_lolympe/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "moyen_age" %}class="active"{% endif %}>
+            <a href="/pages/moyen_age/accueil.html">Un samedi soir au Moyen Age</a>
+          </li>
+          {% if page.subcategory == "moyen_age" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/moyen_age/miam.html">Miam!</a></li>
+              <li><a href="/pages/moyen_age/deco.html">La déco</a></li>
+              <li><a href="/pages/moyen_age/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "mystere_a_labbaye" %}class="active"{% endif %}>
+            <a href="/pages/mystere_a_labbaye/accueil.html">Mystère à l'abbaye</a>
+          </li>
+          {% if page.subcategory == "mystere_a_labbaye" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/mystere_a_labbaye/miam.html">Miam!</a></li>
+              <li><a href="/pages/mystere_a_labbaye/deco.html">La déco</a></li>
+              <li><a href="/pages/mystere_a_labbaye/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+        </ul>
+      </li>
+
+      <li>
+        <label class="tree-toggler nav-header">Soirées féeriques</label>
+        <ul class="nav nav-pills nav-stacked" {% if page.category != "feeriques" %} style="display: none;" {% endif %}>
+          <li {% if page.subcategory == "alice_et_peter" %}class="active"{% endif %}>
+            <a href="/pages/alice_et_peter_au_pays_merveilleux_imaginaire/accueil.html">Alice et Peter au pays merveilleux imaginaire</a>
+          </li>
+          {% if page.subcategory == "alice_et_peter" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/alice_et_peter_au_pays_merveilleux_imaginaire/miam.html">Miam!</a></li>
+              <li><a href="/pages/alice_et_peter_au_pays_merveilleux_imaginaire/deco.html">La déco</a></li>
+              <li><a href="/pages/alice_et_peter_au_pays_merveilleux_imaginaire/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "contes_et_legendes" %}class="active"{% endif %}>
+            <a href="/pages/contes_et_legendes/accueil.html">Contes et légendes</a>
+          </li>
+          {% if page.subcategory == "contes_et_legendes" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/contes_et_legendes/miam.html">Miam!</a></li>
+              <li><a href="/pages/contes_et_legendes/deco.html">La déco</a></li>
+              <li><a href="/pages/contes_et_legendes/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "extraterrestre" %}class="active"{% endif %}>
+            <a href="/pages/extraterrestre/accueil.html">Extraterrestre</a>
+          </li>
+          {% if page.subcategory == "extraterrestre" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/extraterrestre/miam.html">Miam!</a></li>
+              <li><a href="/pages/extraterrestre/deco.html">La déco</a></li>
+              <li><a href="/pages/extraterrestre/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+        </ul>
+      </li>
+
+      <li>
+        <label class="tree-toggler nav-header">Soirées autour du monde</label>
+        <ul class="nav nav-pills nav-stacked" {% if page.category != "monde" %} style="display: none;" {% endif %}>
+          <li {% if page.subcategory == "epices" %}class="active"{% endif %}>
+            <a href="/pages/epices/accueil.html">Sur la route des épices</a>
+          </li>
+          {% if page.subcategory == "epices" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/epices/miam.html">Miam!</a></li>
+              <li><a href="/pages/epices/deco.html">La déco</a></li>
+              <li><a href="/pages/epices/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "independence_day" %}class="active"{% endif %}>
+            <a href="/pages/independence_day/accueil.html">Independence Day</a>
+          </li>
+          {% if page.subcategory == "independence_day" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/independence_day/miam.html">Miam!</a></li>
+              <li><a href="/pages/independence_day/deco.html">La déco</a></li>
+              <li><a href="/pages/independence_day/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "paris" %}class="active"{% endif %}>
+            <a href="/pages/paris/accueil.html">Paris</a>
+          </li>
+          {% if page.subcategory == "paris" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/paris/miam.html">Miam!</a></li>
+              <li><a href="/pages/paris/deco.html">La déco</a></li>
+              <li><a href="/pages/paris/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "tropical" %}class="active"{% endif %}>
+            <a href="/pages/tropical/accueil.html">Sous les tropiques</a>
+          </li>
+          {% if page.subcategory == "tropical" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/tropical/miam.html">Miam!</a></li>
+              <li><a href="/pages/tropical/deco.html">La déco</a></li>
+              <li><a href="/pages/tropical/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+        </ul>
+      </li>
+      <li>
+        <label class="tree-toggler nav-header">Soirées festives</label>
+        <ul class="nav nav-pills nav-stacked" {% if page.category != "festive" %} style="display: none;" {% endif %}>
+          <li {% if page.subcategory == "bacchus" %}class="active"{% endif %}>
+            <a href="/pages/bacchus/accueil.html">Soirée Bacchus</a>
+          </li>
+          {% if page.subcategory == "bacchus" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/bacchus/miam.html">Miam!</a></li>
+              <li><a href="/pages/bacchus/deco.html">La déco</a></li>
+              <li><a href="/pages/bacchus/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <!-- <li {% if page.subcategory == "chocolat_show" %}class="active"{% endif %}>
+            <a href="/pages/chocolat_show/accueil.html">Chocolat show</a>
+          </li>
+          {% if page.subcategory == "chocolat_show" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/chocolat_show/miam.html">Miam!</a></li>
+              <li><a href="/pages/chocolat_show/deco.html">La déco</a></li>
+              <li><a href="/pages/chocolat_show/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %} -->
+
+          <li {% if page.subcategory == "disco" %}class="active"{% endif %}>
+            <a href="/pages/disco/accueil.html">Disco forever</a>
+          </li>
+          {% if page.subcategory == "disco" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/disco/miam.html">Miam!</a></li>
+              <li><a href="/pages/disco/deco.html">La déco</a></li>
+              <li><a href="/pages/disco/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "fete_foraine" %}class="active"{% endif %}>
+            <a href="/pages/fete_foraine/accueil.html">Fête Foraine</a>
+          </li>
+          {% if page.subcategory == "fete_foraine" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/fete_foraine/miam.html">Miam!</a></li>
+              <li><a href="/pages/fete_foraine/deco.html">La déco</a></li>
+              <li><a href="/pages/fete_foraine/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
+          <li {% if page.subcategory == "reveillon" %}class="active"{% endif %}>
+            <a href="/pages/reveillon/accueil.html">Thèmes de Réveillon</a>
+          </li>
+
+          <li {% if page.subcategory == "soiree_fleurie" %}class="active"{% endif %}>
+            <a href="/pages/soiree_fleurie/accueil.html">Soirée fleurie</a>
+          </li>
+          {% if page.subcategory == "soiree_fleurie" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/soiree_fleurie/miam.html">Miam!</a></li>
+              <li><a href="/pages/soiree_fleurie/deco.html">La déco</a></li>
+              <li><a href="/pages/soiree_fleurie/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: monde
+subcategory: independence_day
 ---
 
 ## La déco

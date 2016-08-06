@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sous les tropiques
+category: monde
+subcategory: tropical
 ---
 
 # Sous les tropiques

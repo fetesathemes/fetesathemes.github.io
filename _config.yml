@@ -1,5 +1,4 @@
 name: Fetes a themes
-markdown: redcarpet
 safe: true
 lsi: false
 highlighter: pygments

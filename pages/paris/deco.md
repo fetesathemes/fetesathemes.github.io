@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La décoration
+category: monde
+subcategory: paris
 ---
 
 ## La déco

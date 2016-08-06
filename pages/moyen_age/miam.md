@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Miam!
+category: historique
+subcategory: moyen_age
 ---
 
 ## Miam!

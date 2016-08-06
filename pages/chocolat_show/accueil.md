@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Chocolat Show
+category: festive
+subcategory: chocolat_show
 ---
 
 # Chocolat Show

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Paris
+category: monde
+subcategory: paris
 ---
 
 # Paris

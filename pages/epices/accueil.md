@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Sur la route des épices
+category: monde
+subcategory: epices
 ---
 
 # Sur la route des épices

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: historique
+subcategory: ile_aux_pirates
 ---
 
 ## La déco

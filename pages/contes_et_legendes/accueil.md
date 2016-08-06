@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Contes et légendes
+category: feeriques
+subcategory: contes_et_legendes
 ---
 
 # Contes et légendes

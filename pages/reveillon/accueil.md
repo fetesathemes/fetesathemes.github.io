@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Thèmes de Réveillon
+category: festive
+subcategory: reveillon
 ---
 
 # Thèmes de Réveillon

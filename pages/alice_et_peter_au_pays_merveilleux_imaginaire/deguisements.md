@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: feeriques
+subcategory: alice_et_peter
 ---
 
 ## A cette soirée vous pourrez croiser...

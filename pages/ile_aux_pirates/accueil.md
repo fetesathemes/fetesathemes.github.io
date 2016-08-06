@@ -1,6 +1,8 @@
 ---
 layout: default
 title: L'île aux pirates
+category: historique
+subcategory: ile_aux_pirates
 ---
 
 # L'île aux pirates

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: festive
+subcategory: chocolat_show
 ---
 
 ## La déco

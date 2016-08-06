@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: historique
+subcategory: moyen_age
 ---
 
 ## A cette soirée vous pourrez croiser...

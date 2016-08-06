@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: festive
+subcategory: bacchus
 ---
 
 ## A cette soirée vous pourrez croiser...

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: festive
+subcategory: disco
 ---
 
 ## A cette soirée vous pourrez croiser...

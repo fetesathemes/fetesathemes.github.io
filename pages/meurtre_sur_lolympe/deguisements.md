@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: historique
+subcategory: meurtre_sur_lolympe
 ---
 
 ## A cette soirée vous pourrez croiser...

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: feeriques
+subcategory: extraterrestre
 ---
 
 ## A cette soirée vous pourrez croiser...

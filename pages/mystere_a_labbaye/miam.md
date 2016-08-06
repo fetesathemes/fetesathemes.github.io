@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Miam!
+category: historique
+subcategory: mystere_a_labbaye
 ---
 
 ## Miam!

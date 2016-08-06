@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Soirée fleurie
+category: festive
+subcategory: soiree_fleurie
 ---
 
 # Soirée fleurie

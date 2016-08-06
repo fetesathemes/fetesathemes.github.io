@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Miam!
+category: historique
+subcategory: ile_aux_pirates
 ---
 
 ## Miam!

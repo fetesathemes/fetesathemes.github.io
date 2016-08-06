@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Meurtre sur l'Olympe
+category: historique
+subcategory: meurtre_sur_lolympe
 ---
 
 # Meurtre sur l'Olympe

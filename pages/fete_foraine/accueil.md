@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Fête Foraine
+category: festive
+subcategory: fete_foraine
 ---
 
 # Fête Foraine

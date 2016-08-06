@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: monde
+subcategory: paris
 ---
 
 ## A cette soirée vous pourrez croiser...

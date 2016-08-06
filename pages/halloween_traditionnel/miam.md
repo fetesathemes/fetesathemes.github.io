@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Miam!
+category: horrifiques
+subcategory: classique_horreur
 ---
 
 ## Miam!

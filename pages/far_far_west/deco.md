@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: historique
+subcategory: far_far_west
 ---
 
 ## La déco

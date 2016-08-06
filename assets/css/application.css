@@ -34,7 +34,7 @@ footer {
   font-size: 10px;
 }
 
-a, .logo a:hover {
+a, .logo a:hover, label.tree-toggler {
   color: #EE9900;
   text-decoration: none;
 }

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Far far west
+category: historique
+subcategory: far_far_west
 ---
 
 # Far far west

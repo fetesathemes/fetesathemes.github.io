@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mystère à l'abbaye
+category: historique
+subcategory: mystere_a_labbaye
 ---
 
 # Mystère à l'abbaye

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La décoration
+category: festive
+subcategory: soiree_fleurie
 ---
 
 ## La déco

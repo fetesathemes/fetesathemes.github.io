@@ -1,6 +1,8 @@
 ---
 layout: default
 title: A cette soirée vous pourrez croiser...
+category: horrifiques
+subcategory: anges_demons
 ---
 
 ## A cette soirée vous pourrez croiser...

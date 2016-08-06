@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Miam!
+category: feeriques
+subcategory: contes_et_legendes
 ---
 
 ## Miam!

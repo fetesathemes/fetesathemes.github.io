@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Independence Day
+category: monde
+subcategory: independence_day
 ---
 
 # Independence Day

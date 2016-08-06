@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Un samedi soir au Moyen Age
+category: historique
+subcategory: moyen_age
 ---
 
 # Un samedi soir au Moyen Age

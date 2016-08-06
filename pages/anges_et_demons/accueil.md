@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Anges et démons
+category: horrifiques
+subcategory: anges_demons
 ---
 
 # Anges et démons

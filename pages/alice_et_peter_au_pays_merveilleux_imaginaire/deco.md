@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: feeriques
+subcategory: alice_et_peter
 ---
 
 ## La déco

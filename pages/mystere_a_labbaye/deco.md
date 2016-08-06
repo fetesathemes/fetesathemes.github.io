@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: historique
+subcategory: mystere_a_labbaye
 ---
 
 ## La déco

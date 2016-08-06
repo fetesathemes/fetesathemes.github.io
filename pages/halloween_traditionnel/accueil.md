@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Les classiques de l'horreur
+category: horrifiques
+subcategory: classique_horreur
 ---
 
 # Les classiques de l'horreur

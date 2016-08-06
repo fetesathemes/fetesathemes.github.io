@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: historique
+subcategory: meurtre_sur_lolympe
 ---
 
 ## La déco

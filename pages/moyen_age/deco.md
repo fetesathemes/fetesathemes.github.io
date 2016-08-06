@@ -1,6 +1,8 @@
 ---
 layout: default
 title: La déco
+category: historique
+subcategory: moyen_age
 ---
 
 ## La déco
