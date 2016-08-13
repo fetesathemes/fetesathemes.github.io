@@ -16,3 +16,5 @@ Utilisez toutes les épices odorantes et colorées, dans des pots, au plafond, p
 Pour la décoration de la table, par exemple de la cannelle, des rondelles d'orange:
 
 ![deco](/assets/images/pages/DSC02855.JPG)
+
+![deco](/assets/images/pages/DSC03982.jpg)

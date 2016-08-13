@@ -222,6 +222,17 @@
             </ul>
           {% endif %} -->
 
+          <li {% if page.subcategory == "instant_t" %}class="active"{% endif %}>
+            <a href="/pages/instant_t/accueil.html">L'instant T</a>
+          </li>
+          {% if page.subcategory == "instant_t" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/instant_t/miam.html">Miam!</a></li>
+              <li><a href="/pages/instant_t/deco.html">La déco</a></li>
+              <li><a href="/pages/instant_t/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
+
           <li {% if page.subcategory == "disco" %}class="active"{% endif %}>
             <a href="/pages/disco/accueil.html">Disco forever</a>
           </li>

@@ -11,6 +11,12 @@ Bienvenus dans l'univers magique de la fête foraine qui vous rappellera les bon
 
 Vous pourrez organiser un tournoi en équipe avec prix à la clé!
 
+![deco](/assets/images/pages/P1100017.JPG)
+
+![deco](/assets/images/pages/P1100018.JPG)
+
+![deco](/assets/images/pages/P1100039.JPG)
+
 [Miam !](/pages/fete_foraine/miam.html)
 
 [La déco](/pages/fete_foraine/deco.html)
