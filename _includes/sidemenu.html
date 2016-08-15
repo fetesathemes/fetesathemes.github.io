@@ -108,6 +108,17 @@
               <li><a href="/pages/mystere_a_labbaye/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
             </ul>
           {% endif %}
+
+          <li {% if page.subcategory == "panique_jurassique" %}class="active"{% endif %}>
+            <a href="/pages/panique_jurassique/accueil.html">Panique au Jurassique</a>
+          </li>
+          {% if page.subcategory == "panique_jurassique" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/panique_jurassique/miam.html">Miam!</a></li>
+              <li><a href="/pages/panique_jurassique/deco.html">La déco</a></li>
+              <li><a href="/pages/panique_jurassique/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
         </ul>
       </li>
 
