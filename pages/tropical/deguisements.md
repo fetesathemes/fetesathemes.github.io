@@ -24,3 +24,5 @@ Des crustacés
 Des bananes
 
 Des vahinées
+
+![deguisement](/assets/images/pages/DSC06423.jpg)

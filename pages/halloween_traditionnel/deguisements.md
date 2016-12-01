@@ -20,3 +20,5 @@ Fantômes
 Citrouilles et potirons
 
 Et autres démons sortis de votre imagination
+
+![deguisement](/assets/images/pages/DSC06422.jpg)
