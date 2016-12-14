@@ -7,7 +7,7 @@ subcategory: panique_jurassique
 
 # Panique au Jurassique
 
-
+Retour au temps des dinosaures... attention de ne pas se faire dévorer par les reptiles enragés.
 
 [Miam !](/pages/panique_jurassique/miam.html)
 

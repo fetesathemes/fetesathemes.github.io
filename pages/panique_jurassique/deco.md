@@ -7,6 +7,8 @@ subcategory: panique_jurassique
 
 ## La déco
 
+Une décoration de végétation tropicale conviendra parfaitement, quelques volcans et surtout des dinos!
+
 ![serviette](/assets/images/pages/P1100009.JPG)
 
 ![ballons](/assets/images/pages/P1100011.JPG)

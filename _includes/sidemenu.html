@@ -119,6 +119,17 @@
               <li><a href="/pages/panique_jurassique/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
             </ul>
           {% endif %}
+
+          <li {% if page.subcategory == "momie" %}class="active"{% endif %}>
+            <a href="/pages/le_retour_de_la_momie/accueil.html">Le retour de la momie</a>
+          </li>
+          {% if page.subcategory == "momie" %}
+            <ul class="nav nav-pills nav-stacked">
+              <li><a href="/pages/le_retour_de_la_momie/miam.html">Miam!</a></li>
+              <li><a href="/pages/le_retour_de_la_momie/deco.html">La déco</a></li>
+              <li><a href="/pages/le_retour_de_la_momie/deguisements.html">A cette soirée vous pourrez croiser...</a></li>
+            </ul>
+          {% endif %}
         </ul>
       </li>
 

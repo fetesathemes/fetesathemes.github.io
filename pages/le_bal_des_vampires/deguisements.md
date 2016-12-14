@@ -22,3 +22,5 @@ Hiboux
 Célèbres chasseurs de vampires
 
 Prêtres exorcistes
+
+Une grosse gousse d'aïl !
