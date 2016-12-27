@@ -7,7 +7,7 @@ subcategory: contes_et_legendes
 
 # Contes et légendes
 
-Un thème extrêmement vaste qui permet beaucoup d'imagination dans la réalisation des costumes et déguisements.
+Un thème extrêmement vaste qui permet beaucoup liberté dans la réalisation de costumes et déguisements.
 
 Vos invités qui apprécient se déguiser y trouveront forcément leur bonheur.
 
