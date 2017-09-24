@@ -15,6 +15,6 @@ Idéalement située dans une salle en pierre, votre soirée sera parfaite avec u
 
 Des napperons et dorures sur les tables seront du plus bel effet. Et pourquoi ne pas tenter un service de table en bois ou en céramique?
 
-![bougie](/assets/images/pages/P1070534.jpeg)
+![bougie](/assets/images/pages/DSC09255.jpg)
 
-![arc](/assets/images/pages/DSC01822.jpeg)
+![arc](/assets/images/pages/DSC09258.jpg)

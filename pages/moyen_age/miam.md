@@ -14,3 +14,5 @@ Il existe un ouvrage très complet et facile à comprendre que l'on ne peut que 
 Il se trouve aisément dans les librairies ou sur Internet : de René Husson et Philippe Galmiche, les "Recettes Médiévales", 2e édition aux Éditions Fleurines, pour 12 euros.
 
 N'oubliez surtout pas l'Hypocras, les plats à base de coq ou caillettes, les pâtisseries au miel et les vins aromatisés, parfaitement dans le ton.
+
+![gateau](/assets/images/pages/DSC09249.jpg)
